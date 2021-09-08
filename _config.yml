@@ -1,7 +1,7 @@
 title: "Iglesia de Dios Mission Board, Península de Cantera"
 email: 
 timezone: UTC
-baseurl: "/affiliates-jekyll-theme"
+baseurl: "/website"
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
