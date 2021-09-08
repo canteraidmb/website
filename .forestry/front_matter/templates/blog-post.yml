@@ -17,3 +17,5 @@ fields:
 - type: file
   name: image
   label: image
+pages:
+- _posts/documental-una-iglesia-que-sirve-2010.md
