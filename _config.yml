@@ -1,11 +1,11 @@
 title: "Iglesia de Dios Mission Board, Península de Cantera"
 email: 
 timezone: UTC
-baseurl: "/website"
+baseurl: "https://canteraidmb.github.io/website/"
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-author: Sal
+author: canteraimdb
 paginate: 30
 disqus: 'demowebsite'
 locale: en_us
