@@ -1,5 +1,5 @@
-title: "Affiliates"
-email: wowthemesnet@gmail.com
+title: "Iglesia de Dios Mission Board, Península de Cantera"
+email: 
 timezone: UTC
 baseurl: "/affiliates-jekyll-theme"
 permalink: "/:title/"
@@ -20,32 +20,32 @@ kramdown:
 sass:
   sass_dir: _sass
   style: :compressed
-ganalytics: UA-113961478-1
+ganalytics: 
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
+  canteraidmb:
+    name: canteraidmb
+    display_name: Iglesia de Dios Mission Board, Península de Cantera
     avatar: 'assets/images/sal.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/category/jekyll-themes/
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Affiliates, a template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John
+    email: 
+    web: 
+    twitter: 
+    description: "La Iglesia de Dios Mission Board, Península de Cantera, ubicada en la Calle Florida #35, en San Juan, lleva más de 70 años sirviendo a la comunidad de Cantera."
+  esfuerzo:
+    name: Esfuerzo Juvenil de Cantera
+    display_name: Esfuerzo Juvenil de Cantera
     avatar: 'assets/images/john.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/category/jekyll-themes/
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Affiliates theme demo, a Jekyll template compatible with Github pages."
+    email: 
+    web: 
+    twitter: 
+    description: "La Iglesia de Dios Mission Board, Península de Cantera, ubicada en la Calle Florida #35, en San Juan, lleva más de 70 años sirviendo a la comunidad de Cantera."
 
 # Social
 social:
-  instagram: https://www.instagram.com/bootstrapstarter/
-  facebook: https://www.facebook.com/bootstrapstartercom-346329609045284
-  twitter: https://twitter.com/bstartercom
+  instagram: 
+  facebook: 
+  twitter: 
 
 # Plugins
 plugins: 
