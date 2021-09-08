@@ -4,7 +4,7 @@ title: 'Documental: Una iglesia que sirve (2010)'
 author: canteraimdb
 categories:
 - video
-image: ''
+image: "/uploads/idmbcantera.png"
 
 ---
 Producido por el Esfuerzo Juvenil, "Una iglesia que sirve" recoge la historia de la Iglesia de Dios Mission Board de la Península de Cantera.
