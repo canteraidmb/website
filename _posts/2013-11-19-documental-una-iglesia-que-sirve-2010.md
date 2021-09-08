@@ -1,7 +1,7 @@
 ---
 layout: Blog Post
 title: 'Documental: Una iglesia que sirve (2010)'
-author: canteraimdb
+author: 'Iglesia de Dios Mission Board, Península de Cantera'
 categories:
 - video
 image: "/uploads/idmbcantera.png"
