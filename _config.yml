@@ -4,7 +4,7 @@ timezone: UTC
 baseurl: "https://canteraidmb.github.io/website/"
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
+favicon: 'assets/images/favi.ico'
 author: canteraimdb
 paginate: 30
 disqus: 'demowebsite'
