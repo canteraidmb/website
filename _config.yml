@@ -5,7 +5,7 @@ baseurl: "https://canteraidmb.github.io/website/"
 permalink: "/:title/"
 logo: 'assets/images/logo-4.png'
 favicon: 'assets/images/favi.png'
-author: canteraimdb
+author: IDMB Cantera
 paginate: 30
 disqus: 'demowebsite'
 locale: en_us
